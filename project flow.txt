@@ -1,3 +1,12 @@
 1. Building a Pipeline
 --> Create a github repo (Add experiments)
 --> Add src folder along with all components
+
+
+2. Setting up pipeline using dvc
+- without params
+- add stages
+- dvc init
+- dvc add
+- dvc repro
+- git add dvc.lock
