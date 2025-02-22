@@ -1,0 +1,15 @@
+1. Create an end to end ML pipeline
+2. Atomate the pipeline using DVC (YAML)
+3. Experiment tracking using .dvclive
+4. AWS setup with DVC for data versioning
+
+
+PIPELINE:  (Not the exact but this is basic.)
+
+data ingestion ---> pre-processing ---> Feature Engg. ---> Model Training ---> Model Evaluation
+
+MLOPS PRACTICE:
+1. Coding practices
+2. Robust pipeline
+3. Experiments
+4. AWS, YAML, etc
