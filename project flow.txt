@@ -16,3 +16,9 @@
 - params.yaml file
 - dvc repro
 - git add and push
+
+
+4. Experiments with dvc
+- pip install dvclive
+- add dvclive code block
+- dvc exp run
