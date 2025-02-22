@@ -10,3 +10,9 @@
 - dvc add
 - dvc repro
 - git add dvc.lock
+
+
+3. Setting dvc with params
+- params.yaml file
+- dvc repro
+- git add and push
